@@ -6,16 +6,15 @@ presented by the LPC to demonstrate a CMS analysis using
 [Apache Spark](http://spark.apache.org/),
 [Spark-ROOT](https://github.com/diana-hep/spark-root),
 [Histogrammar](http://histogrammar.org/), and
-[MatplotLib](https://matplotlib.org/). After introducing Spark and
-the paradigm it brings with it, students will learn some
-basic building blocks then combine them to perform a basic measurement
+[MatplotLib](https://matplotlib.org/). After introducing Spark, students
+will learn the steps needed to perform a basic measurement
 of the Z-boson mass using CMS data recorded in 2016.
 
 ## Getting Started
 
-Students of the HATS will be provided access to Vanderbilt's
-[Jupyter](https://jupyter.accre.vanderbilt.edu) instance using their
-GitHub username. The jupyter instance contains this repository and
+Students of the HATS will be provided access to Vanderbilt's Big Data
+cluster via [Jupyter](https://jupyter.accre.vanderbilt.edu) using their
+GitHub username. The Jupyter instance contains both this repository and
 all necessary software preconfigured.
 
 ### Pre-Exercises
@@ -39,11 +38,11 @@ directory and open the notebook named `Start-Here.ipynb`
 
 ## Authors
 
-* **Andrew Melo** - [http://lpc.fnal.gov/fellows/2017/Andrew_Melo.shtml]
+* **Andrew Melo** - http://lpc.fnal.gov/fellows/2017/Andrew_Melo.shtml
 
 ## Acknowledgments
 
 * The LPC Distinguished Researcher Program ([link](http://lpc.fnal.gov/fellows/2017.shtml)) - *Support for the author*
 * Advanced Computing Center for Research and Education (ACCRE) ([link](http://www.accre.vanderbilt.edu/)) - *Host facility and sysadmin support*
-* The Diana-HEP project ([link](http://diana-hep.org/) - *Interoperability and compatibility libaries*
+* The Diana-HEP project ([link](http://diana-hep.org/)) - *Interoperability and compatibility libaries*
 * Vanderbilt Trans Institutional Program (TIPs) Award ([link](https://vanderbilt.edu/provost/occi/tips.php)) - *Big Data hardware seed funding*
