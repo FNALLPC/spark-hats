@@ -33,7 +33,7 @@ directory and open the notebook named `Start-Here.ipynb`
 * [Jupyter](http://jupyter.org/) - Interactive python notebook interface
 * [Apache Spark](http://spark.apache.org/) - Fast and general engine for large-scale data processing
 * [Spark-ROOT](https://github.com/diana-hep/spark-root) - Scala-based ROOT/IO interface to Spark
-* [Histogrammar](http://histogrammar.org/) - Functional historgamming framework, optimized for Spark
+* [Histogrammar](http://histogrammar.org/) - Functional histogramming framework, optimized for Spark
 * [MatplotLib](https://matplotlib.org/) - Python plotting library
 
 ## Authors
