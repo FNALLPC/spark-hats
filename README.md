@@ -22,9 +22,10 @@ all necessary software preconfigured.
 The day before the tutorial, it's critical that each student perform the
 pre-exercises. This way, any potential technical/login issues can be cleared
 up beforehand. To perform the pre-exercises, connect to
-[Jupyter](https://jupyter.accre.vanderbilt.edu) and navigate to
+[Jupyter](https://jupyter.accre.vanderbilt.edu). Once your server starts, 
+navigate to
 ```
-notebooks/00-preexercise.ipynb
+spark-hats/notebooks/00-preexercise.ipynb
 ```
 
 ### Accessing this Tutorial in Jupyter
