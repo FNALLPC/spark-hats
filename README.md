@@ -20,9 +20,8 @@ all necessary software preconfigured.
 ### Pre-Exercises
 
 The day before the tutorial, it's critical that each student perform the
-[pre-exercises](https://github.com/FNALLPC/spark-hats/blob/master/notebooks/00-preexercise.ipynb).
-This way, any potential technical/login issues can be cleared up beforehand. To
-perform the pre-exercises, connect to
+pre-exercises. This way, any potential technical/login issues can be cleared
+up beforehand. To perform the pre-exercises, connect to
 [Jupyter](https://jupyter.accre.vanderbilt.edu) and navigate to
 ```
 notebooks/00-preexercise.ipynb
