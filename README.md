@@ -21,8 +21,22 @@ all necessary software preconfigured.
 ### Pre-Exercises
 
 The day before the tutorial, it's critical that each student perform the
-[pre-exercises](https://github.com/FNALLPC/spark-hats/blob/master/notebooks/00-preexercise.ipynb).
-This way, any potential technical/login issues can be cleared up beforehand. 
+pre-exercises. This way, any potential technical/login issues can be cleared
+up beforehand. To perform the pre-exercises, connect to
+[Jupyter](https://jupyter.accre.vanderbilt.edu). You will first need to log
+in to GitHub and authorize Jupyter to authenticate (don't worry, GitHub
+doesn't transfer your password, just a secret authentication token). You will
+get a request to give me, `PerilousApricot`, your credentials.
+
+Once you've given [Jupyter](https://jupyter.accre.vanderbilt.edu) permission
+to authenticate, click "Start My Server" to start your Jupyter instance.
+
+Once your server starts, you'll be placed into the Jupyter file browser. Then,
+navigate to
+```
+spark-hats/notebooks/00-preexercise.ipynb
+```
+to begin the pre-exercise.
 
 ### Accessing this Tutorial in Jupyter
 
