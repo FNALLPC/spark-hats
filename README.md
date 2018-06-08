@@ -15,7 +15,7 @@ of the Z-boson mass using CMS data recorded in 2016.
 
 Students of the HATS will be provided access to Vanderbilt's
 [Jupyter](https://jupyter.accre.vanderbilt.edu) instance using their
-GitHub username. The jupyter instance contains this repository and
+CERN username. The jupyter instance contains this repository and
 all necessary software preconfigured.
 
 ### Pre-Exercises
@@ -24,9 +24,8 @@ The day before the tutorial, it's critical that each student perform the
 pre-exercises. This way, any potential technical/login issues can be cleared
 up beforehand. To perform the pre-exercises, connect to
 [Jupyter](https://jupyter.accre.vanderbilt.edu). You will first need to log
-in to GitHub and authorize Jupyter to authenticate (don't worry, GitHub
-doesn't transfer your password, just a secret authentication token). You will
-get a request to give me, `PerilousApricot`, your credentials.
+in to CERN and authorize Jupyter to authenticate (don't worry, CERN
+doesn't transfer your password, just a secret authentication token).
 
 Once you've given [Jupyter](https://jupyter.accre.vanderbilt.edu) permission
 to authenticate, click "Start My Server" to start your Jupyter instance.
@@ -34,14 +33,14 @@ to authenticate, click "Start My Server" to start your Jupyter instance.
 Once your server starts, you'll be placed into the Jupyter file browser. Then,
 navigate to
 ```
-spark-hats/notebooks/00-preexercise.ipynb
+spark-hats/notebooks/10-building-blocks.ipynb
 ```
-to begin the pre-exercise.
+to begin the tutorial.
 
 ### Accessing this Tutorial in Jupyter
 
 Once logged into [Jupyter](https://jupyter.accre.vanderbilt.edu), navigate to the `spark-hats`
-directory and open the notebook named `Start-Here.ipynb`
+directory and open the notebook named `setup-libraries.ipynb`
 
 ## Built With
 
