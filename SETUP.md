@@ -6,7 +6,7 @@ Starting Jupyter
 ----------------
 
 Before each session, you to start Jupyter and connect your web browser to it.
-This step is documented at [HATSatLPCSetup2018](https://twiki.cern.ch/twiki/bin/viewauth/CMS/HATSatLPCSetup2018).
+This step is documented at [HATSatLPCSetup2021](https://twiki.cern.ch/twiki/bin/view/CMS/HATSatLPCSetup2021).
 
 Installing the Tutorial
 -----------------------
